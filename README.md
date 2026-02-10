@@ -41,27 +41,10 @@ Time complexity is exponential in the worst case, but efficient for standard puz
 ## 📂 Project Structure
 
 ```
-com.kunal.backtracking
+com.backtracking
 └── SudokuSolver.java
 ```
 
----
-
-## ▶️ How to Run
-
-### 1. Compile
-
-```bash
-javac com/kunal/backtracking/SudokuSolver.java
-```
-
-### 2. Run
-
-```bash
-java com.kunal.backtracking.SudokuSolver
-```
-
----
 
 ## 🧪 Example Input Board
 
